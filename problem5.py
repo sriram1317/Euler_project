@@ -3,6 +3,8 @@
 
 # What is the smallest positive number that is evenly divisible by all of the numbers from 1 to n?
 
+#Solution: find lowest common multiple from 1 to n and print the maximum LCM
+
 
 num = int(input("enter te number: "))
 maxLcm = 1
